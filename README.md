@@ -1,9 +1,9 @@
-# Mohammad Ashikur Rahman | Portfolio
+# Mohammad  Dilouar Hossain | Portfolio
 
 A premium, interactive portfolio built with **Next.js 15**, **Framer Motion**, and **GSAP**. This project features a smooth-scrolling experience, dynamic animations, and a fully functional contact system.
 
 ## 🚀 Live Demo
-[Mohammad Ashikur Rahman's Portfolio](https://portfolio-mohammad-ashikur-rahman.vercel.app)
+[Mohammad  Dilouar Hossain's Portfolio](https://portfolio-mohammad-ashikur-rahman.vercel.app)
 
 ## ✨ Key Features
 - **Modern Tech Stack**: Built with Next.js 15 (App Router) for high performance and SEO.
@@ -63,4 +63,4 @@ To deploy:
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ---
-Built with ❤️ by [Mohammad Ashikur Rahman](https://github.com/arRahat129)
+Built with ❤️ by [Mohammad  Dilouar Hossain](https://github.com/arRahat129)

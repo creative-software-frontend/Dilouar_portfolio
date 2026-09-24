@@ -14,7 +14,7 @@ const spaceGrotesk = Space_Grotesk({
 });
 
 export const metadata = {
-  title: "Mohammad Ashikur Rahman | Portfolio",
+  title: "Mohammad  Dilouar Hossain | Portfolio",
   description: "I bridge the gap between complex engineering and human-centric design.",
 };
 

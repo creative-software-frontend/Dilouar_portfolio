@@ -6,7 +6,7 @@ import { usePathname } from "next/navigation";
 import Image from "next/image";
 import logo from "../assets/logo.png";
 import { BsTwitterX } from "react-icons/bs";
-import { FaGithub, FaLinkedinIn } from "react-icons/fa6";
+import { FaGithub, FaInstagram, FaLinkedinIn, FaPinterest, FaTiktok, FaTwitter, FaYoutube } from "react-icons/fa6";
 import Link from "next/link";
 
 export default function Navbar() {
@@ -119,29 +119,48 @@ export default function Navbar() {
         >
           <div className="hidden sm:flex items-center gap-3">
             <a
-              href="https://www.linkedin.com/in/mohammad-ashikur-rahman-rahat/"
+              href="https://www.linkedin.com/in/dilouarbd"
               className="w-9 h-9 flex items-center justify-center rounded-full nav-glass text-slate-600 dark:text-slate-300 hover:text-slate-900 dark:hover:text-white transition-all shadow-lg active:scale-95 border border-black/5 dark:border-white/5"
               target="_blank"
               rel="noopener noreferrer"
             >
               <FaLinkedinIn />
             </a>
+          
             <a
-              href="https://github.com/arRahat129"
+              href="https://x.com/dilouarbd"
               className="w-9 h-9 flex items-center justify-center rounded-full nav-glass text-slate-600 dark:text-slate-300 hover:text-slate-900 dark:hover:text-white transition-all shadow-lg active:scale-95 border border-black/5 dark:border-white/5"
               target="_blank"
               rel="noopener noreferrer"
             >
-              <FaGithub />
+              <FaTwitter />
             </a>
-            <a
-              href="https://x.com/A_R_Rahat"
+            
+              <a
+              href="https://www.instagram.com/dilouarbd"
               className="w-9 h-9 flex items-center justify-center rounded-full nav-glass text-slate-600 dark:text-slate-300 hover:text-slate-900 dark:hover:text-white transition-all shadow-lg active:scale-95 border border-black/5 dark:border-white/5"
               target="_blank"
               rel="noopener noreferrer"
             >
-              <BsTwitterX />
+              <FaInstagram />
             </a>
+             <a
+              href="https://www.pinterest.com/dilouarbd"
+              className="w-9 h-9 flex items-center justify-center rounded-full nav-glass text-slate-600 dark:text-slate-300 hover:text-slate-900 dark:hover:text-white transition-all shadow-lg active:scale-95 border border-black/5 dark:border-white/5"
+              target="_blank"
+              rel="noopener noreferrer"
+            >
+              <FaPinterest />
+            </a>
+            <a
+              href="https://www.youtube.com/@dilouarbd"
+              className="w-9 h-9 flex items-center justify-center rounded-full nav-glass text-slate-600 dark:text-slate-300 hover:text-slate-900 dark:hover:text-white transition-all shadow-lg active:scale-95 border border-black/5 dark:border-white/5"
+              target="_blank"
+              rel="noopener noreferrer"
+            >
+              <FaYoutube />
+            </a>
+           
           </div>
 
           {/* Hamburger Menu Toggle Button for md and sm screens */}
@@ -225,7 +244,7 @@ export default function Navbar() {
               {/* Mobile Social Buttons */}
               <div className="flex items-center justify-around pt-4 mt-2 border-t border-black/10 dark:border-white/10 sm:hidden">
                 <a
-                  href="https://www.linkedin.com/in/mohammad-ashikur-rahman-rahat/"
+                  href="https://www.linkedin.com/in/dilouarbd/"
                   target="_blank"
                   rel="noopener noreferrer"
                   className="flex items-center gap-2 text-xs font-semibold text-slate-700 dark:text-slate-300"
@@ -233,7 +252,7 @@ export default function Navbar() {
                   <FaLinkedinIn className="text-base text-blue-500" /> LinkedIn
                 </a>
                 <a
-                  href="https://github.com/arRahat129"
+                  href="https://github.com/dilouarbd"
                   target="_blank"
                   rel="noopener noreferrer"
                   className="flex items-center gap-2 text-xs font-semibold text-slate-700 dark:text-slate-300"
@@ -241,7 +260,7 @@ export default function Navbar() {
                   <FaGithub className="text-base" /> GitHub
                 </a>
                 <a
-                  href="https://x.com/A_R_Rahat"
+                  href="https://x.com/dilouarbd"
                   target="_blank"
                   rel="noopener noreferrer"
                   className="flex items-center gap-2 text-xs font-semibold text-slate-700 dark:text-slate-300"

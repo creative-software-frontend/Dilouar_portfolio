@@ -15,7 +15,7 @@ export default function Footer() {
           <div className="text-3xl font-black text-slate-900 dark:text-white italic tracking-tighter">
             <Image src={logo} alt="Logo" width={100} height={100} />
           </div>
-          <p className="font-sans text-sm tracking-wide text-slate-500 italic">© {new Date().getFullYear()} Mohammad Ashikur Rahman. Engineered for the future.</p>
+          <p className="font-sans text-sm tracking-wide text-slate-500 italic">© {new Date().getFullYear()} Mohammad  Dilouar Hossain. Engineered for the future.</p>
         </div>
 
         <div className="flex items-center gap-8">

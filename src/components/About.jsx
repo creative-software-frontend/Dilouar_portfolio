@@ -102,7 +102,7 @@ export default function About() {
           <div className="absolute -inset-4 bg-indigo-500/10 rounded-3xl blur-2xl group-hover:bg-indigo-500/20 transition-all"></div>
           <Image
             ref={imageRef}
-            alt="About Mohammad Ashikur Rahman"
+            alt="About Mohammad  Dilouar Hossain"
             className="relative glass rounded-2xl w-full h-[400px] object-cover border border-black/10 dark:border-white/10"
             src={image}
           />
@@ -112,8 +112,7 @@ export default function About() {
           <div ref={textRef}>
             <h2 className="font-headline-lg text-headline-lg text-on-surface mb-8">About me</h2>
             <p className="font-body-md text-body-md text-outline mb-10 leading-relaxed">
-              I am a Computer Science graduate and passionate web developer specializing in building full-stack web applications with React, Next.js, Node.js, and modern UI frameworks. I enjoy solving complex problems on LeetCode, writing clean maintainable code, and turning innovative ideas into dynamic digital experiences.
-            </p>
+             I am Engineer Dilouar Hossain, a technology and business-focused professional, trainer, mentor, and systems thinker. I work at the intersection of technology, digital marketing, business development, software solutions, and productivity.  </p>
           </div>
 
           <div ref={statsRef} className="grid grid-cols-1 sm:grid-cols-3 gap-6">
@@ -125,8 +124,8 @@ export default function About() {
             </div>
 
             <div className="glass p-6 rounded-xl border-t border-black/10 dark:border-white/10 hover:bg-black/5 dark:hover:bg-white/5 transition-colors">
-              <div className="text-primary font-headline-md text-headline-md mb-1 font-bold">B.Sc. CSE</div>
-              <div className="text-xs font-label-caps text-outline uppercase tracking-widest">Graduation (3.45)</div>
+              <div className="text-primary font-headline-md text-headline-md mb-1 font-bold">BSc in CSE</div>
+              <div className="text-xs font-label-caps text-outline uppercase tracking-widest">Graduation</div>
             </div>
 
             <div className="glass p-6 rounded-xl border-t border-black/10 dark:border-white/10 hover:bg-black/5 dark:hover:bg-white/5 transition-colors">

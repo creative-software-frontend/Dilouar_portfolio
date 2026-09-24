@@ -81,7 +81,7 @@ export default function Hero() {
         >
           <motion.p variants={itemVariants} className="text-xl text-on-surface-variant font-medium mb-4">Hey, I'm</motion.p>
           <motion.h1 variants={itemVariants} className="font-headline-xl text-[clamp(2.5rem,5vw,4.5rem)] leading-[1.1] font-extrabold text-on-surface mb-4 flex items-center gap-4">
-            Mohammad Ashikur Rahman
+            Mohammad  Dilouar Hossain
             <motion.span
               animate={{ rotate: [0, 14, -8, 14, -4, 10, 0] }}
               transition={{ repeat: Infinity, repeatDelay: 2, duration: 1.5 }}
@@ -161,7 +161,7 @@ export default function Hero() {
           <div className="relative w-72 h-72 md:w-96 md:h-96 rounded-full border-2 border-black/10 dark:border-white/10 flex items-center justify-center p-4">
             <div className="absolute inset-0 rounded-full border border-indigo-500/20 animate-[spin_20s_linear_infinite]"></div>
             <div className="w-full h-full rounded-full overflow-hidden border-4 border-black/5 dark:border-white/5 bg-slate-100 dark:bg-slate-900 shadow-2xl relative z-10">
-              <Image alt="Mohammad Ashikur Rahman" className="w-full h-full object-cover" src={image} priority />
+              <Image alt="Mohammad  Dilouar Hossain" className="w-full h-full object-cover" src={image} priority />
             </div>
 
             {/* Dynamic Problem Solving Badge */}
