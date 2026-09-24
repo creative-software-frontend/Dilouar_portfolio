@@ -1,0 +1,142 @@
+[
+  {
+    "id": "plant-companion",
+    "title": "Plant Companion",
+    "image": "https://i.ibb.co.com/JFFsgPVW/Screenshot-2026-07-17-212349.png",
+    "tags": ["Agentic AI Feature", "HTML", "CSS", "TypeScript", "Next.js", "Tailwind", "MongoDB", "Expressjs", "Framer Motion", "JWT"],
+    "tagColor": "text-secondary-fixed",
+    "liveLink": "https://plant-companion-client.vercel.app",
+    "githubClient": "https://github.com/arRahat129/plant-companion-client",
+    "description": "An intelligent plant care assistant leveraging AI to diagnose plant diseases, offer tailored care tips, and manage watering schedules seamlessly.",
+    "challenges": [
+      "Integrating Agentic AI features for accurate real-time plant disease detection and diagnosis.",
+      "Optimizing complex state management across multi-step user onboarding and plant care schedules.",
+      "Ensuring seamless JWT session security and fast image upload processing for field photos."
+    ],
+    "improvements": [
+      "Add automated push notifications and email alerts for plant watering and sunlight reminders.",
+      "Implement community sharing forums for plant enthusiasts to exchange tips and photos.",
+      "Introduce offline-first PWA caching for diagnosing plants in gardens without active internet connection."
+    ]
+  },
+  {
+    "id": "digi-mart",
+    "title": "DigiMart",
+    "image": "https://i.ibb.co.com/M58PKDXg/Digi-Mart-Logo.png",
+    "tags": ["HTML", "CSS", "TypeScript", "Next.js", "Tailwind", "MongoDB", "Expressjs", "Framer Motion", "JWT"],
+    "tagColor": "text-primary",
+    "liveLink": "https://digi-mart-kappa.vercel.app",
+    "githubClient": "https://github.com/arRahat129/digi-mart",
+    "description": "A modern e-commerce marketplace platform for digital products featuring seamless cart management, user authentication, and seller dashboards.",
+    "challenges": [
+      "Handling real-time inventory counts and instant digital file delivery upon purchase.",
+      "Designing responsive product filtering with category trees and pricing sliders without lag.",
+      "Ensuring secure client-server authentication and role-based access for buyers and sellers."
+    ],
+    "improvements": [
+      "Integrate multi-currency payment gateways (Stripe, SSLCommerz, PayPal).",
+      "Add automated license key generation and instant download management.",
+      "Implement user review and rating verification system."
+    ]
+  },
+  {
+    "id": "prompt-world",
+    "title": "Prompt World",
+    "image": "https://i.ibb.co.com/pvQmSWZt/hero.jpg",
+    "tags": ["HTML", "CSS", "JS", "Next.js", "Tailwind", "MongoDB", "Expressjs", "Framer Motion", "JWT", "Stripe"],
+    "tagColor": "text-primary",
+    "liveLink": "https://prompt-world-client.vercel.app/",
+    "githubClient": "https://github.com/arRahat129/prompt-world-client",
+    "description": "An interactive marketplace and sharing platform for AI prompts with secure authentication, prompt testing preview, and Stripe payment integration.",
+    "challenges": [
+      "Configuring webhooks with Stripe for asynchronous payment confirmation and prompt unlock.",
+      "Building a syntax-highlighted prompt preview engine for Midjourney, ChatGPT, and Claude prompts.",
+      "Managing complex search indexing across prompt categories, tags, and AI model compatibility."
+    ],
+    "improvements": [
+      "Add direct API execution playground to test prompts in real-time before buying.",
+      "Introduce author subscriptions and creator monetization analytics dashboard.",
+      "Add prompt versioning and bookmarking collections."
+    ]
+  },
+  {
+    "id": "pet-is-family",
+    "title": "Pet Is Family",
+    "image": "https://i.postimg.cc/rpdxkhw3/Screenshot-2026-05-24-162630.png",
+    "tags": ["HTML", "CSS", "JS", "Next.js", "Tailwind", "MongoDB", "Expressjs", "Framer Motion", "JWT"],
+    "tagColor": "text-secondary-fixed",
+    "liveLink": "https://pet-is-family.vercel.app",
+    "githubClient": "https://github.com/arRahat129/pet-is-family",
+    "description": "A compassionate pet adoption platform connecting rescue pets with adopters, featuring breed insights and foster application workflows.",
+    "challenges": [
+      "Designing intuitive multi-step adoption application forms with validation.",
+      "Managing dynamic image galleries for pet profiles across varying screen dimensions.",
+      "Implementing efficient MongoDB aggregation queries for filtering pets by age, breed, and location."
+    ],
+    "improvements": [
+      "Add live chat between potential adopters and shelters.",
+      "Integrate vet appointment scheduling and vaccination records tracking.",
+      "Introduce a pet donation and shelter sponsorship portal."
+    ]
+  },
+  {
+    "id": "tile-canvas",
+    "title": "Tile Canvas",
+    "image": "https://i.ibb.co.com/MDzwCChK/Tile-Canvas.png",
+    "tags": ["HTML", "CSS", "JS", "Next.js", "Tailwind", "Framer Motion", "GSAP", "MongoDB"],
+    "tagColor": "text-secondary-fixed",
+    "liveLink": "https://tile-canvas.vercel.app/",
+    "githubClient": "https://github.com/arRahat129/tile-canvas",
+    "description": "A creative canvas application for interactive tile-based web designs, pattern generation, and visual layout experimentation.",
+    "challenges": [
+      "Achieving 60fps animations during dynamic drag-and-drop tile reordering.",
+      "Optimizing GSAP timeline triggers for smooth scroll-driven canvas transitions.",
+      "Ensuring cross-browser canvas rendering accuracy across desktop and mobile browsers."
+    ],
+    "improvements": [
+      "Add SVG export and high-resolution PNG rendering of custom tile patterns.",
+      "Implement collaborative real-time editing using WebSockets.",
+      "Expand library of pre-built tile templates and procedural pattern generators."
+    ]
+  },
+  {
+    "id": "keenkeeper",
+    "title": "KeenKeeper",
+    "image": "https://i.ibb.co.com/Tq7wKMPY/Screenshot-2026-05-02-132333.png",
+    "tags": ["HTML", "CSS", "JS", "Next.js", "Tailwind", "MongoDB"],
+    "tagColor": "text-primary",
+    "liveLink": "https://assignment07-arrahat-kohl.vercel.app/",
+    "githubClient": "https://github.com/arRahat129/assignment07-ar_rahat",
+    "description": "A smart productivity task and note management application designed to help users organize priorities, deadlines, and project notes.",
+    "challenges": [
+      "Implementing instant local state updates with asynchronous cloud database syncing.",
+      "Structuring flexible tag-based note categorization and rich text formatting.",
+      "Ensuring clean user interface responsiveness on narrow smartphone displays."
+    ],
+    "improvements": [
+      "Add markdown support and code snippet syntax highlighting for tech notes.",
+      "Implement recurring task schedules and reminder notifications.",
+      "Introduce task board views (Kanban, List, Calendar)."
+    ]
+  },
+  {
+    "id": "dragon-news",
+    "title": "Dragon News",
+    "image": "https://i.ibb.co.com/j9n3QYcM/Screenshot-2026-05-02-132615.png",
+    "tags": ["HTML", "CSS", "JS", "Next.js", "Tailwind", "MongoDB"],
+    "tagColor": "text-tertiary",
+    "liveLink": "https://dragon-news-orpin-eight.vercel.app/category/01",
+    "githubClient": "https://github.com/arRahat129/dragon-news",
+    "description": "A dynamic news portal featuring categorized news feeds, trending story carousels, and responsive article readers.",
+    "challenges": [
+      "Optimizing dynamic routing and fast server-side rendering for category feeds.",
+      "Building clean layout structures for media-dense news articles.",
+      "Managing social share integrations and bookmarking states."
+    ],
+    "improvements": [
+      "Add personalized news feed based on user reading history.",
+      "Implement dark mode and adjustable reading font sizes for articles.",
+      "Integrate audio TTS (Text-to-Speech) for listening to news articles on the go."
+    ]
+  }
+]
