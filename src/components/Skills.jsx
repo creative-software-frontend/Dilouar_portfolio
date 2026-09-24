@@ -35,7 +35,7 @@ export default function Skills() {
       ],
     },
     leetcode: {
-      username: "A_R_Rahat",
+      username: "dilouarbd",
       enabled: true,
       totalSolved: 125,
       easySolved: 65,

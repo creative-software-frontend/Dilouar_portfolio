@@ -1,11 +1,11 @@
 // Configuration for dynamic stats fetching across GitHub, LeetCode, and other platforms
 export const statsConfig = {
   github: {
-    username: "arRahat129",
+    username: "dilouarbd",
     enabled: true,
   },
   leetcode: {
-    username: "A_R_Rahat",
+    username: "dilouarbd",
     enabled: true,
   },
   // Future platforms - set enabled to true when ready to display on portfolio

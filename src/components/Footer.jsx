@@ -19,10 +19,10 @@ export default function Footer() {
         </div>
 
         <div className="flex items-center gap-8">
-          <a className="text-slate-500 hover:text-indigo-400 transition-all font-sans text-sm tracking-wide" href="https://github.com/arRahat129" target="_blank" rel="noopener noreferrer">GitHub</a>
-          <a className="text-slate-500 hover:text-indigo-400 transition-all font-sans text-sm tracking-wide" href="https://www.linkedin.com/in/mohammad-ashikur-rahman-rahat/" target="_blank" rel="noopener noreferrer">LinkedIn</a>
-          <a className="text-slate-500 hover:text-indigo-400 transition-all font-sans text-sm tracking-wide" href="https://x.com/A_R_Rahat" target="_blank" rel="noopener noreferrer">Twitter</a>
-          <a className="text-slate-500 hover:text-indigo-400 transition-all font-sans text-sm tracking-wide" href="mailto:rahashik129@gmail.com">Email</a>
+          <a className="text-slate-500 hover:text-indigo-400 transition-all font-sans text-sm tracking-wide" href="https://github.com/dilouarbd" target="_blank" rel="noopener noreferrer">GitHub</a>
+          <a className="text-slate-500 hover:text-indigo-400 transition-all font-sans text-sm tracking-wide" href="https://www.linkedin.com/in/dilouarbd" target="_blank" rel="noopener noreferrer">LinkedIn</a>
+          <a className="text-slate-500 hover:text-indigo-400 transition-all font-sans text-sm tracking-wide" href="https://x.com/dilouarbd" target="_blank" rel="noopener noreferrer">Twitter</a>
+          <a className="text-slate-500 hover:text-indigo-400 transition-all font-sans text-sm tracking-wide" href="mailto:dilouarbd@gmail.com">Email</a>
         </div>
 
         <div className="opacity-70 hover:opacity-100 transition-opacity">
